@@ -1,0 +1,26 @@
+.desContainer{
+  position: relative;
+  width: auto;
+  justify-content: left;
+}
+.input-option-2{
+  position: relative;
+  left: -400px;
+  border-radius: 50%;
+}
+.input-option{
+  position: relative;
+  left:-380px;
+}
+.add-option{
+  position: relative;
+  top: -25px;
+  left: 300px;
+  width: 100px;
+  background-color: white;
+  border: 0px solid white;
+  color: blue
+}
+
+
+

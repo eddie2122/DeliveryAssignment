@@ -1,0 +1,12 @@
+.sa-container{
+    position: relative;
+    width: auto;
+}
+.sa-input{
+    position: relative;
+    width: 200px;
+    height: 180px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    left:100px;
+}

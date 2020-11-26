@@ -1,0 +1,16 @@
+.quiz-container{
+    position: relative;
+}
+.mcq-input1{
+    position: relative;
+    left:100px
+}
+.mcq-input2{
+    position: relative;
+    width:130px;
+    height:10px;
+    left: 110px;
+}
+
+
+

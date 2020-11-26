@@ -1,0 +1,9 @@
+.short-answer-input{
+    width: 90%;
+    height: 50px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom:2px dotted rgb(156, 156, 156);
+    outline: none;
+}
